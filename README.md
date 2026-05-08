@@ -7,8 +7,9 @@
 * To create a new project call "my-store" for example:
     **ng new my-store**
 
-* Navigate to the '**/my-store**' folder and run the project using npm:
+* Navigate to the '**/my-store**' folder and use npm like:
     **ng g c components/img**
+    **ng g s services/store**
 
 * Finally To launch the application: 
     **ng serve**
