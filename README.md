@@ -10,6 +10,8 @@
 * Navigate to the '**/my-store**' folder and use npm like:
     **ng g c components/img**
     **ng g s services/store**
+    **ng g s services/products**
+
 
 * Finally To launch the application: 
     **ng serve**
