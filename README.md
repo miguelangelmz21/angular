@@ -13,6 +13,7 @@
     - **ng g s services/store**
     - **ng g s services/products**
     - **ng g p pipes/reverse**
+    - **ng g d directives/highlight**
 
 * Finally To launch the application: 
     - **ng serve**
